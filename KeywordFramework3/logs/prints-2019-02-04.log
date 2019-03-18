@@ -1,0 +1,6 @@
+17:07:37.376 [main] INFO  keywordFramework.base.keywordFramework_TestBase -  browser gets intialiazed
+17:07:37.421 [main] INFO  keywordFramework.base.keywordFramework_TestBase - URL get loaded
+17:07:38.637 [main] INFO  keywordFramework.base.keywordFramework_TestBase - setImplicitWait
+17:07:38.640 [main] INFO  keywordFramework.base.keywordFramework_TestBase - setPageLoadTimeout
+17:09:44.904 [main] INFO  keywordFramework.base.keywordFramework_TestBase - Config properties files gets loaded
+17:09:44.907 [main] INFO  keywordFramework.base.keywordFramework_TestBase - Implicit/Explicit/PageLoadtimeOut wait gets intialiazed

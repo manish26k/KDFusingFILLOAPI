@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Test Suite" duration-ms="18870" started-at="2019-02-04T11:39:44Z" finished-at="2019-02-04T11:40:03Z">
+    <groups>
+    </groups>
+    <test name="My Test" duration-ms="18870" started-at="2019-02-04T11:39:44Z" finished-at="2019-02-04T11:40:03Z">
+      <class name="keywordFramework.Testscases.KeywordFrameworkLOGINTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:keywordFramework.Testscases.KeywordFrameworkLOGINTest@740fb309]" name="launchBrowser" is-config="true" duration-ms="4426" started-at="2019-02-04T17:09:44Z" finished-at="2019-02-04T17:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testLoginToAppViaKeyword()[pri:0, instance:keywordFramework.Testscases.KeywordFrameworkLOGINTest@740fb309]" name="testLoginToAppViaKeyword" duration-ms="13311" started-at="2019-02-04T17:09:49Z" finished-at="2019-02-04T17:10:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginToAppViaKeyword -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:keywordFramework.Testscases.KeywordFrameworkLOGINTest@740fb309]" name="quitBrowser" is-config="true" duration-ms="1121" started-at="2019-02-04T17:10:02Z" finished-at="2019-02-04T17:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- keywordFramework.Testscases.KeywordFrameworkLOGINTest -->
+    </test> <!-- My Test -->
+  </suite> <!-- My Test Suite -->
+</testng-results>

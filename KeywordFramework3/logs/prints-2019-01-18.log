@@ -1,0 +1,6 @@
+16:42:54.224 [main] INFO  HybridFramework.base.HybridFramework_TestBase -  browser gets intialiazed
+16:42:54.232 [main] INFO  HybridFramework.base.HybridFramework_TestBase - URL get loaded
+16:42:55.380 [main] INFO  HybridFramework.base.HybridFramework_TestBase - setImplicitWait
+16:42:55.383 [main] INFO  HybridFramework.base.HybridFramework_TestBase - setPageLoadTimeout
+16:54:06.311 [main] INFO  HybridFramework.base.HybridFramework_TestBase - Config properties files gets loaded
+16:54:06.314 [main] INFO  HybridFramework.base.HybridFramework_TestBase - Implicit/Explicit/PageLoadtimeOut wait gets intialiazed

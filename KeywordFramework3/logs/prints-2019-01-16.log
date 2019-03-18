@@ -1,0 +1,6 @@
+11:47:45.716 [main] INFO  HybridFramework.PageObjects.Loginpage - returning MyAccountpage
+11:47:45.786 [main] INFO  HybridFramework.PageObjects.Loginpage - clickonSignOut
+11:47:48.180 [main] INFO  HybridFramework.PageObjects.Loginpage - clickonSignIn
+11:47:50.516 [main] INFO  HybridFramework.PageObjects.Loginpage - enterEmailAddress01.....ash26rana@gmail.com
+11:47:50.627 [main] INFO  HybridFramework.PageObjects.Loginpage - enterPassword01.....@ut0m@t10n
+11:47:50.720 [main] INFO  HybridFramework.PageObjects.Loginpage - clickonSignInbutton
